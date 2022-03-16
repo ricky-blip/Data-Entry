@@ -11,6 +11,11 @@ Portofolio Data Entry
    - I do split data from single cells into the right column <br>
    Task : There are several fields of information currently combined in single cells. Need the information moved into appropriate columns. Missing info can be left blank. No     additional research required. Just reformatting the information into the right spots. About 300 total records.
    ![Data Entry 2](https://user-images.githubusercontent.com/64148241/158311181-df1eb221-c1d8-4e5f-a678-f963d7215c33.png)
+   
+3. Project : Convert PDF to Word <br>
+   - I do convert PDF to Word <br>
+   Task : Convert the attached document in to a Word document (would like it to be same format as attached PDF) so it can be edited
+   
 
    
 
